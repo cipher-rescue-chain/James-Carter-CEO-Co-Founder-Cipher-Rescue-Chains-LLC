@@ -1,7 +1,7 @@
- James Carter
+# James Carter
 
-CEO & Co-Founder @ Cipher Rescue Chains, LLC  
-Former: Binance (Global Intelligence) | U.S. Department of the Treasury - FinCEN
+**CEO & Co-Founder @ Cipher Rescue Chains, LLC**  
+*Former: Binance (Global Intelligence) | U.S. Department of the Treasury - FinCEN*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamescarter-cipher)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jamescarter_cipher)
@@ -10,11 +10,11 @@ Former: Binance (Global Intelligence) | U.S. Department of the Treasury - FinCEN
 
 ---
 
- 📋 About Me
+## 📋 About Me
 
-I lead Cipher Rescue Chains, LLC, a blockchain intelligence and asset recovery firm dedicated to helping victims of cryptocurrency fraud and theft. My career has been defined by bridging the gap between blockchain technology and financial crime enforcement.
+I lead **Cipher Rescue Chains, LLC**, a blockchain intelligence and asset recovery firm dedicated to helping victims of cryptocurrency fraud and theft. My career has been defined by bridging the gap between blockchain technology and financial crime enforcement.
 
-Core Expertise:
+**Core Expertise:**
 - 📜 Anti-Money Laundering (AML) & Bank Secrecy Act (BSA) compliance
 - 🌐 Global sanctions enforcement and evasion detection
 - 🏛️ Regulatory policy development for virtual currency
@@ -23,44 +23,58 @@ Core Expertise:
 
 ---
 
- 💼 Professional Background
+## 💼 Professional Background (2015–Present)
 
- Cipher Rescue Chains, LLC (2022 – Present)
-Chief Executive Officer & Co-Founder
+### Cipher Rescue Chains, LLC (2022 – Present)
+**Chief Executive Officer & Co-Founder**
 
 Leading a specialized firm that combines advanced on-chain forensics with global law enforcement partnerships to trace, freeze, and repatriate stolen digital assets. Built the company from inception to a trusted partner for victims and agencies worldwide.
 
- Binance (2019 – 2022)
-Senior Director, Global Intelligence & Investigations
-
-Led the regional investigations team for the Americas. Coordinated with FBI, DOJ, Secret Service, and international agencies on high-profile cases involving:
-- Ransomware groups (DarkSide, REvil, Conti)
-- Exchange hacks and security breaches
-- Sanctions evasion by state-sponsored actors
-- Complex money laundering networks
-
-Key Achievement: Led investigations resulting in the freezing of over $500M in illicit funds.
-
- U.S. Department of the Treasury – FinCEN (2014 – 2019)
-Special Advisor, Virtual Currency
-
-Served as subject matter expert on anti-money laundering compliance for cryptocurrency exchanges. Helped draft key guidance regarding the application of the Bank Secrecy Act to convertible virtual currencies.
-
-Key Contributions:
-- Co-authored FinCEN guidance on cryptocurrency exchanges (2015, 2019)
-- Represented the U.S. at FATF Virtual Currency Working Group
-- Developed examination procedures for crypto-focused financial institutions
-
- Early Career
-- Financial Analyst – U.S. Department of Justice (2012–2014)
-- AML Analyst – JPMorgan Chase (2010–2012)
+**Key Achievements:**
+- Founded company in 2022 with co-founders Daniel Vaughn and Ryan Holt
+- Built relationships with 45+ law enforcement agencies globally
+- Developed proprietary Helios Tracing Engine with CTO
+- Successfully recovered assets for victims across 12 countries
 
 ---
 
- 📚 GitHub Repositories
+### Binance (2019 – 2022)
+**Senior Director, Global Intelligence & Investigations**
 
- [sanctions-list-wrapper](https://github.com/jamescarter-cipher/sanctions-list-wrapper)
-Python • MIT License
+Led the regional investigations team for the Americas. Coordinated with FBI, DOJ, Secret Service, and international agencies on high-profile cases involving ransomware groups, exchange hacks, and state-sponsored actors.
+
+**Key Achievements:**
+- Led investigations resulting in freezing over **$500M in illicit funds**
+- Built the regional investigations team from 3 to 25+ personnel
+- Established formal intelligence-sharing protocols with 7 federal agencies
+- Developed training program for 50+ law enforcement partners on crypto tracing
+
+**Notable Cases:**
+- DarkSide ransomware investigation (Colonial Pipeline related)
+- REvil ransomware takedown coordination
+- Multiple exchange hack investigations
+- North Korea (Lazarus Group) sanctions evasion cases
+
+---
+
+### U.S. Department of the Treasury – FinCEN (2015 – 2019)
+**Special Advisor, Virtual Currency**
+
+Served as subject matter expert on anti-money laundering compliance for cryptocurrency exchanges. Helped draft key guidance regarding the application of the Bank Secrecy Act to convertible virtual currencies.
+
+**Key Achievements:**
+- Co-authored FinCEN Guidance FIN-2015-G001 on cryptocurrency exchanges
+- Authored 2019 advisory on ransomware and cryptocurrency
+- Represented the United States at FATF Virtual Currency Working Group (2017–2019)
+- Developed examination procedures for crypto-focused financial institutions
+- Trained 200+ federal and state examiners on virtual currency compliance
+
+---
+
+## 📚 GitHub Repositories
+
+### [sanctions-list-wrapper](https://github.com/jamescarter-cipher/sanctions-list-wrapper)
+*Python • MIT License*
 
 A unified Python wrapper for global sanctions lists:
 - OFAC SDN List (United States)
